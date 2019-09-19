@@ -1,4 +1,4 @@
-# pyscreen
+# Pyscreen
 Linux screen capture using tkinter, inspired by pyautogui
 
 ## Index
@@ -16,7 +16,7 @@ Linux screen capture using tkinter, inspired by pyautogui
 - Fullscreen screenshots
 - Store the image to disk
 
-## To Play
+### To Play
 
 Just run `python3 screen.py`
 
@@ -24,7 +24,7 @@ Just run `python3 screen.py`
 
 [[Back to top]](https://github.com/diego-asterisk/pyscreen#index)
 
-This game was written in one day, so the coding standards might not be up the mark. Don't be shy to make a Pull request :)
+Feel free to contribute.
 
 For details, please refer [the Contributing page](https://github.com/diego-asterisk/pyscreen/blob/master/CONTRIBUTING.rst)
 
